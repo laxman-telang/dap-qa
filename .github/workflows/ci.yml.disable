@@ -1,0 +1,4 @@
+name: Manual Test Workflow
+
+on:
+  workflow_dispatch:  # Only runs manually from GitHub UI
