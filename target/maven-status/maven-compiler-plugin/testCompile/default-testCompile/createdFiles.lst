@@ -1,0 +1,8 @@
+utils\KafkaEventValidator.class
+utils\PlaywrightDriver.class
+journeys\walletManagementJourney\api\WalletCustodyAPITest.class
+journeys\walletManagementJourney\api\AssetRegisterAPITest.class
+stepdefinitions\LoginSteps.class
+runners\UIRunner.class
+test\java\runners\APIRunner.class
+stepdefinitions\dlt\DLTIntegrationAPITest.class
